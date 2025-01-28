@@ -4,13 +4,17 @@
 
 Инструкция установки тем для Obsidian
 
-1.Переходим в настройки в левом нижнем меню.![image](https://github.com/user-attachments/assets/efb6213f-a617-4756-81ec-ee2f79bb3d44)
+1.Переходим в настройки в левом нижнем меню.
+![image](https://github.com/user-attachments/assets/efb6213f-a617-4756-81ec-ee2f79bb3d44)
 
-2.Далее переходим во вкладку Оформление.![image](https://github.com/user-attachments/assets/04a63cc1-58d3-4b17-acad-e87621a98612)
+2.Далее переходим во вкладку Оформление.
+![image](https://github.com/user-attachments/assets/04a63cc1-58d3-4b17-acad-e87621a98612)
 
-3.После листаем в самый низ и ищем вкладку "Фрагменты CSS кода"![image](https://github.com/user-attachments/assets/99420acb-e3ef-4908-a89b-eadc930082d2)
+3.После листаем в самый низ и ищем вкладку "Фрагменты CSS кода"
+![image](https://github.com/user-attachments/assets/99420acb-e3ef-4908-a89b-eadc930082d2)
 
-4.После открываем папку, которая будет правее "Фрагменты CSS кода"![image](https://github.com/user-attachments/assets/4818d786-3c77-44a3-95d3-97f487662930)
+4.После открываем папку, которая будет правее "Фрагменты CSS кода"
+![image](https://github.com/user-attachments/assets/4818d786-3c77-44a3-95d3-97f487662930)
 
 5.Потом перекидываем туда все CSS файлы, перезаходим в настройки и оформление ( чтобы подгрузились все файлы )
 
